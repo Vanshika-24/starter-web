@@ -15,6 +15,8 @@ This is Deployment.
 
 ## How To Contribute
 
+Fork and issue pull request.
+
 ### Copyright
 
 2014 Git Training
