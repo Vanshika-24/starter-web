@@ -4,6 +4,8 @@ This repository is demo for showing how Git and GitHub work .
 
 ## Introduction
 
+This is introduction.
+
 ## Purpose
 
 ## Deployment
