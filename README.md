@@ -14,3 +14,7 @@ This is purpose.
 This is Deployment.
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git Training
